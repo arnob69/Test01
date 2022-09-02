@@ -55,7 +55,7 @@ int main()
 
 #### Output :
 
-![](/home/arnob/workss/3o_days_C_program_phitron/day_01/program_02.png)
+![](./program_02.png)
 
 #### Third Program : Multi line comments
 
