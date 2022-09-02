@@ -18,7 +18,7 @@ Task 03 : variable
 
 > (i)
 > 
-> > \> watch and code video no. [11](https://youtu.be/wEWHq8FzdMw),[12]([C programming Bangla Tutorial 5.11 : Comments and Escape sequence - YouTube](https://youtu.be/VPPQaMkRssM)),[14]([C programming Bangla Tutorial 5.13 : Keyword, Variable, data type (part-1) - YouTube](https://youtu.be/HWyEt9Q_2pE)) from this [playlist](https://www.youtube.com/watch?v=6nOavbvFvbY&list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) 
+> > \> watch and code video no. [11](https://youtu.be/wEWHq8FzdMw),[12](https://youtu.be/VPPQaMkRssM),[14](https://youtu.be/HWyEt9Q_2pE) from this [playlist](https://www.youtube.com/watch?v=6nOavbvFvbY&list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz) 
 
 #### First program : Print your name
 
